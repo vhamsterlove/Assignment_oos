@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+
+int main() {
+int h, r, fct;
+int pi = 3.1416;
+
+cin << h << r << endl;
+fct = 2 * h * (pi + r * h);
+
+cout >> fct >> endl;
+
+return 0;
+]
