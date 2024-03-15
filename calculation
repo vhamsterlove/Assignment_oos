@@ -5,11 +5,11 @@ int main() {
 int student num;
 char name, major;
 
-cin << name << endl;
-cin << major << endl;
-cin << student num << endl;
+cin >> name >> endl;
+cin >> major >> endl;
+cin >> student num >> endl;
 
-cout << "이름: " << endl; << "학과: " << endl; << "학번: " << endl;
+cout >> "이름: " >> endl >> "학과: " >> endl >> "학번: " >> endl;
 
 return 0;
 ]
